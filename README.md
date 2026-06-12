@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://magnitudeminds.com">
+<a href="https://www.magnitudeminds.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=900&center=true&vCenter=true&width=720&color=F4F4F5&background=00000000&lines=Hey%2C+I%27m+Duy+%F0%9F%91%8B;Founder+%40+Magnitudeminds;I+build+AI+products+and+AI+teams;Production+AI%2C+shipped+from+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3">
     <img alt="Hey, I'm Duy. Founder @ Magnitudeminds. I build AI products and AI teams." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=900&center=true&vCenter=true&width=720&color=18181B&background=00000000&lines=Hey%2C+I%27m+Duy+%F0%9F%91%8B;Founder+%40+Magnitudeminds;I+build+AI+products+and+AI+teams;Production+AI%2C+shipped+from+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3">
