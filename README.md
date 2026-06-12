@@ -74,3 +74,5 @@ Along the way the studio started building its own things, and now I get to do th
 <sub>⚡ Built with an unreasonable amount of green squares · <a href="https://magnitudeminds.com">magnitudeminds.com</a></sub>
 
 </div>
+
+<!-- profile refresh -->
